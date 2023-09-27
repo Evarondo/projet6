@@ -1,4 +1,4 @@
-# **Projet 5 : Classifiez automatiquement des biens de consommation**
+# **Projet 6 : Classifiez automatiquement des biens de consommation**
 ## <u>Mission</u>
 En tant que Data Scientist au sein de l'entreprise Place de Marché qui souhaite lancer une marketplace e-commerce, l'objectif est de faciliter la mise en ligne de nouveaux produits (d'un point de vue du vendeur) et la recherche de ces nouveaux produits (d'un point de vue des acheteurs) en automatisant l'attribution de la catégorie du produit à partir de la description et des images des produits.
 
